@@ -6,47 +6,60 @@ header, aside, main, footer {
 
 #container{
     border: black 1px solid;
+    height: 1060%;
 }
 
 header{
     text-align: center;
-    padding: 20px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 2%;
+    padding-left: 9%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 9%;
 }
 
 footer{
     text-align: center;
-    padding: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 37%;
+    margin-bottom: 1%;
+    padding-left: 9%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    padding-right: 9%;
 }
 
-main section{
-    position: relative;
-    padding-top: 70px;
-    padding-bottom: 70px;
-    padding-right: 20px;
-    padding-left: 20px;
-    margin-top: 30px;
-    margin-bottom: 50px;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 100px;
-    text-align: center;
-}
+
 
 section{
     border: solid 1px black;
+    margin-left: 19%;
+    margin-right: 7%;
+    margin-top: 20%;
+    padding-left: 9%;
+    padding-top: 7%;
+    padding-bottom: 2%;
+    padding-right: 10%;
 }
 
 main{
-    margin-left: 750px;
+    margin-right: 20%;
     float: right;
-    position: absolute;
-    width: 700px;
+    margin-top: 2%;
+    padding: 10%;
+    align-items: center;
 }
 
-aside{
-    margin-right: 1250px;
-    height: 50px;
-    margin-bottom: 20px;
+aside {
+    float: left;
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-top: 2%;
+    padding-left: 9%;
+    padding-top: 7%;
+    padding-bottom: 2%;
+    padding-right: 10%;
 }
